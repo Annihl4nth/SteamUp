@@ -9,8 +9,8 @@
  * @invite BShu37e4jg
 */
 
-@import url('/Steam/Steam_main.css');
-@import url('https://maendisease.github.io/Steam/addons/horizontalserverlist.css');
+@import url('https://raw.githubusercontent.com/Annihl4nth/SteamUp/refs/heads/ui-update/Steam/Steam_main.css');
+/* @import url('https://maendisease.github.io/Steam/addons/horizontalserverlist.css'); */
 
 :root {
   --hue-shift: 0; /* 0-360 */

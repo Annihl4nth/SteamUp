@@ -1,9 +1,13 @@
 > [!NOTE]  
-> Reload Discord to clear lag caused by random occurrence. This is a known issue that is difficult to trace to its source.
+> Temp fix from dbergPROTAKT for fixing the UI bugs.
+> https://github.com/maenDisease/Steam/issues/13
 
-<h1 align="left">Steam</h1>
+<h1 align="left">Steam (Updated)</h1>
 <p align="left">Steam UI on Discord.</p>
-<p align="left">Available on https://bdeditor.dev/theme/steam for ease of customization.</p>
+<p align="left">Vencord: Paste this line into your Online Themes section:<p>
+```css
+https://raw.githubusercontent.com/Annihl4nth/SteamUp/refs/heads/ui-update/Steam.css
+```
 
 ![Image of chat](https://i.imgur.com/BizjNu3.png)
 ![Image of friends](https://i.imgur.com/gTGvgf3.png)
